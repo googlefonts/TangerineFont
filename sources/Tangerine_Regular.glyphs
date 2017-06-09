@@ -269,6 +269,7 @@ guilsinglleft
 );
 date = "2010-05-21 09:04:45 +0000";
 designer = "Toshi Omagari";
+designerURL = "http://tosche.net";
 disablesAutomaticAlignment = 1;
 familyName = Tangerine;
 fontMaster = (
@@ -29144,6 +29145,7 @@ name = Bold;
 );
 keyboardIncrement = 0;
 manufacturer = "Toshi Omagari";
+manufacturerURL = "http://tosche.net";
 unitsPerEm = 1000;
 versionMajor = 1;
 versionMinor = 0;
