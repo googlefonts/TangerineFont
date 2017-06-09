@@ -1,9 +1,6 @@
 {
 .appVersion = "1032";
-DisplayStrings = (
-"This is butt ugly"
-);
-copyright = "Copyright (c) 2010 by Toshi Omagari. All rights reserved.";
+copyright = "Copyright 2010 The Tangerine Project Authors (https://github.com/googlefonts/TangerineFont)";
 customParameters = (
 {
 name = description;
