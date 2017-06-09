@@ -1,0 +1,2 @@
+Tangerine_Bold.ttf: Version 1.3
+Tangerine_Regular.ttf: Version 1.3
