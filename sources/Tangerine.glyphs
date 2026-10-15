@@ -1,28 +1,12 @@
 {
-.appVersion = "1032";
+.appVersion = "3512";
 copyright = "Copyright 2010 The Tangerine Project Authors (https://github.com/googlefonts/TangerineFont)";
 customParameters = (
-{
-name = description;
-value = "Copyright (c) 2010 by Toshi Omagari. All rights reserved.";
-},
-{
-name = trademark;
-value = "Tangerine is a trademark of Toshi Omagari.";
-},
 {
 name = openTypeOS2Type;
 value = (
 2
 );
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
 },
 {
 name = fsType;
@@ -40,6 +24,31 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = description;
+value = "Copyright (c) 2010 by Toshi Omagari. All rights reserved.";
+},
+{
+name = trademark;
+value = "Tangerine is a trademark of Toshi Omagari.";
+},
+{
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
+},
+{
+name = Axes;
+value = (
+{
+Name = Weight;
+Tag = wght;
+}
+);
 }
 );
 date = "2010-05-21 09:04:45 +0000";
@@ -28741,7 +28750,6 @@ instanceInterpolations = {
 UUID0 = 1;
 };
 name = Regular;
-weightClass = Normal;
 },
 {
 interpolationWeight = 700;
@@ -28753,7 +28761,6 @@ name = Bold;
 weightClass = Bold;
 }
 );
-keyboardIncrement = 0;
 manufacturer = "Toshi Omagari";
 manufacturerURL = "http://tosche.net";
 unitsPerEm = 1000;
